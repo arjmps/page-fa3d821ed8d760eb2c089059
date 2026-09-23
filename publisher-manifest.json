@@ -1,0 +1,122 @@
+{
+  "version": 2,
+  "template_version": "d39ce472eeb3cc3f10e7",
+  "page_size": 20,
+  "site_id": "8059d93b84b2090f8ad3d62d",
+  "owner": "arjmps",
+  "repo": "page-fa3d821ed8d760eb2c089059",
+  "title": "花猫",
+  "mode": "repo",
+  "articles": [
+    {
+      "id": "fa3d821ed8d760eb2c089059",
+      "a": "花猫",
+      "b": "稳定全球clash加速器",
+      "entity": "花猫",
+      "brand": "花猫",
+      "separator": "|",
+      "path": "index.html",
+      "hash": "05160eb6dec31ae43e34c96649308a4f65be8cc154512f14fde97a0ae4288840",
+      "content": {
+        "primary_entity": "花猫",
+        "keyword1": "花猫",
+        "keyword2": "稳定全球clash加速器",
+        "content": {
+          "AI_CLIENTS_INTRO": "按设备选择客户端：Windows 与 macOS 可用 Clash Verge、ClashX，Android 可用 Clash Meta，iOS 可用兼容客户端，路由器可部署 OpenClash。",
+          "AI_CLIENTS_TITLE": "按设备选择客户端",
+          "AI_CLOSING_TEXT": "选好套餐后按客户端文档导入订阅，数分钟内即可开始使用。",
+          "AI_CLOSING_TITLE": "选好套餐，即刻使用",
+          "AI_DESCRIPTION": "，花猫提供基础版、旗舰版与团队版三档套餐，覆盖月付与年付方式，适合从个人设备到团队多终端的订阅需求，用户可比较流量额度与在线设备数量，再按客户端配置订阅。",
+          "AI_FEATURES_INTRO": "从套餐选择、设备需求与订阅周期三个角度了解花猫的订阅方式。",
+          "AI_FEATURES_TITLE": "订阅选择要点",
+          "AI_FEATURE_TEXT_1": "基础版每月 100GB 流量、3 台设备；旗舰版每月 300GB、5 台设备；团队版每月 1000GB、20 台设备。",
+          "AI_FEATURE_TEXT_2": "手机、平板、电脑可按需选择客户端，家庭或小型团队可参考在线设备数量选择对应档位。",
+          "AI_FEATURE_TEXT_3": "月付适合短期体验，年付方案折合每月支出更低，基础版年付 ¥150，旗舰版年付 ¥350，团队版年付 ¥850。",
+          "AI_FEATURE_TITLE_1": "套餐流量对比",
+          "AI_FEATURE_TITLE_2": "多设备适配",
+          "AI_FEATURE_TITLE_3": "周期与价格",
+          "AI_GUIDE_INTRO": "从套餐选择到订阅导入，三步完成配置。",
+          "AI_GUIDE_TITLE": "配置三步",
+          "AI_HERO_INTRO": "花猫面向需要跨设备稳定连接的用户，提供多档套餐与主流客户端配置方案。",
+          "AI_HERO_SUBTITLE": "花猫多设备订阅方案",
+          "AI_HIGHLIGHT_1": "基础版每月 100GB，支持 3 台设备",
+          "AI_HIGHLIGHT_2": "旗舰版每月 300GB，支持 5 台设备",
+          "AI_HIGHLIGHT_3": "团队版每月 1000GB，支持 20 台设备",
+          "AI_PLANS_INTRO": "基础版适合个人轻度使用，旗舰版增加流量与设备数并优化游戏线路，团队版提供更高带宽与多设备支持，可按实际需求选择。",
+          "AI_PLANS_TITLE": "三档套餐对比",
+          "AI_STEP_TEXT_1": "先根据常用设备数量和月均流量，在基础版、旗舰版、团队版之间选择一档套餐。",
+          "AI_STEP_TEXT_2": "确认所选设备的系统与客户端，查看订阅方式是否匹配，再决定月付或年付。",
+          "AI_STEP_TEXT_3": "获取订阅信息后，按照所选客户端的配置文档导入订阅，完成设备连接设置。",
+          "AI_STEP_TITLE_1": "选择套餐",
+          "AI_STEP_TITLE_2": "查看适配要求",
+          "AI_STEP_TITLE_3": "配置订阅",
+          "AI_VISUAL_TITLE": "花猫多设备订阅",
+          "AI_FAQ_ANSWER_1": "基础版每月 100GB、支持 3 台设备；旗舰版每月 300GB、支持 5 台设备并含 IPLC 专线；团队版每月 1000GB、支持 20 台设备与定制路由。按人数和流量选即可。",
+          "AI_FAQ_ANSWER_2": "基础版 3 台，旗舰版 5 台，团队版 20 台。以同时在线设备数为准，选择时预留余量。",
+          "AI_FAQ_ANSWER_3": "年付更划算，基础版 ¥150/年，旗舰版 ¥350/年，团队版 ¥850/年，相当于按月付费的优惠价。",
+          "AI_FAQ_ANSWER_4": "先确认设备系统，再下载对应订阅客户端，在客户端内粘贴订阅链接即可完成配置，遇到问题可参考客户端文档。",
+          "AI_FAQ_ANSWER_5": "旗舰版含 IPLC 专线游戏加速优化，团队版提供 VIP 专属高带宽节点，两款都适合对延迟敏感的场景。",
+          "AI_FAQ_INTRO": "订阅导入、设备限制与付费周期。",
+          "AI_FAQ_QUESTION_1": "花猫怎么选套餐？",
+          "AI_FAQ_QUESTION_2": "一台订阅可以几台设备同时用？",
+          "AI_FAQ_QUESTION_3": "月付和年付价格差多少？",
+          "AI_FAQ_QUESTION_4": "新设备如何导入订阅？",
+          "AI_FAQ_QUESTION_5": "旗舰版和团队版哪个适合游戏？",
+          "AI_FAQ_TITLE": "常见问题"
+        },
+        "plans": [
+          {
+            "name": "基础版",
+            "price": "¥15/月",
+            "annual_price": "按年付仅需 ¥150/年",
+            "features": [
+              "每月 100GB 极速流量",
+              "支持 3 台设备同时在线",
+              "解锁基础流媒体",
+              "普通线路节点池"
+            ]
+          },
+          {
+            "name": "旗舰版",
+            "price": "¥35/月",
+            "annual_price": "按年付仅需 ¥350/年",
+            "featured": true,
+            "features": [
+              "每月 300GB 极速流量",
+              "支持 5 台设备同时在线",
+              "全节点原生流媒体解锁",
+              "IPLC 专线游戏加速优化",
+              "7x24 优先工单支持"
+            ]
+          },
+          {
+            "name": "团队版",
+            "price": "¥85/月",
+            "annual_price": "按年付仅需 ¥850/年",
+            "features": [
+              "每月 1000GB 极速流量",
+              "支持 20 台设备同时在线",
+              "VIP 专属高带宽节点",
+              "支持企业定制路由",
+              "专属客户经理服务"
+            ]
+          }
+        ],
+        "clients": []
+      }
+    }
+  ],
+  "domain": {
+    "apex": "xn--mesx5h38lp91b.com",
+    "host": "xn--mesx5h38lp91b.com"
+  },
+  "file_hashes": {
+    "index.html": "95b74e714ff590861cb0f25a23d227f71c74a98c2804b129521d4f27962b99a7",
+    "sitemap.xml": "c7765cf0b53add382b9d36ce4f6f8bd80409a2dc884746f189afe42e3cb615fe",
+    ".nojekyll": "12ae32cb1ec02d01eda3581b127c1fee3b0dc53572ed6baf239721a03d82e126",
+    "CNAME": "4288850c17e88424de0217e99f1da046ba01497440237f9791aab6bf01256fd7",
+    "robots.txt": "8d876424df874295afb7ba0fd86907f69b3e634c954241328b9d82eb2d06829a",
+    "553425a4fd0105ffb4de79e928969266.txt": "6c0ef32cb7be231d0c0384708cd9567cc8e0cfd8ebda518173a365fb162bcd7e"
+  },
+  "revision": "77ddd8b7e917a22eb5ffe4d563add71a7b43efb08c8ccb0787f22f1311dfe610"
+}
